@@ -322,6 +322,10 @@ Washington, D.C., New York, NY / [@voxstorytelling](https://twitter.com/voxstory
 * [Brittany Holloway-Brown](https://twitter.com/brtttny)
 * [Kavya Sukumar](https://twitter.com/kavyasukumar)
 
+## VRT, deredactie.be
+Brussels, Belgium  [website](http://deredactie.be) / [github](http://vrtstartup.github.io)
+* [Maarten Lauwaert](https://twitter.com/martylauders)
+
 ## Wall Street Journal
 New York City, US / [@WSJGraphics](https://twitter.com/WSJGraphics) / [Website](http://graphics.wsj.com/) / [Github](https://github.com/wsj)
 * [Erik Hinton](https://twitter.com/erikhinton)
